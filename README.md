@@ -29,7 +29,7 @@ Aplicación web de análisis financiero y monitoreo técnico.
 4.  **Acceso:**
     Abrir [http://localhost:3000](http://localhost:3000) en el navegador.
 
-## 🛠 Stack Tecnológico
+## Stack Tecnológico
 * **Framework:** Next.js 14 (App Router).
 * **Estilos:** Tailwind CSS.
 * **Gráficos:** Recharts.
